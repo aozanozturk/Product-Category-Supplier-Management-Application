@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ozan\\source\\repos\\EFDbFirst.UI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B107959-401B-4806-95AF-7EBC7485963A}|EFDbFirst.UI.csproj|C:\\Users\\Ozan\\source\\repos\\EFDbFirst.UI\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B107959-401B-4806-95AF-7EBC7485963A}|EFDbFirst.UI.csproj|solutionrelative:frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B107959-401B-4806-95AF-7EBC7485963A}|EFDbFirst.UI.csproj|c:\\users\\ozan\\source\\repos\\efdbfirst.ui\\frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B107959-401B-4806-95AF-7EBC7485963A}|EFDbFirst.UI.csproj|solutionrelative:frmcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B107959-401B-4806-95AF-7EBC7485963A}|EFDbFirst.UI.csproj|c:\\users\\ozan\\source\\repos\\efdbfirst.ui\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B107959-401B-4806-95AF-7EBC7485963A}|EFDbFirst.UI.csproj|solutionrelative:frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B107959-401B-4806-95AF-7EBC7485963A}|EFDbFirst.UI.csproj|c:\\users\\ozan\\source\\repos\\efdbfirst.ui\\frmsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B107959-401B-4806-95AF-7EBC7485963A}|EFDbFirst.UI.csproj|solutionrelative:frmsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B107959-401B-4806-95AF-7EBC7485963A}|EFDbFirst.UI.csproj|C:\\Users\\Ozan\\source\\repos\\EFDbFirst.UI\\frmsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B107959-401B-4806-95AF-7EBC7485963A}|EFDbFirst.UI.csproj|solutionrelative:frmsupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B107959-401B-4806-95AF-7EBC7485963A}|EFDbFirst.UI.csproj|c:\\users\\ozan\\source\\repos\\efdbfirst.ui\\repositories\\abstract\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B107959-401B-4806-95AF-7EBC7485963A}|EFDbFirst.UI.csproj|solutionrelative:repositories\\abstract\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B107959-401B-4806-95AF-7EBC7485963A}|EFDbFirst.UI.csproj|C:\\Users\\Ozan\\source\\repos\\EFDbFirst.UI\\frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9B107959-401B-4806-95AF-7EBC7485963A}|EFDbFirst.UI.csproj|solutionrelative:frmproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B107959-401B-4806-95AF-7EBC7485963A}|EFDbFirst.UI.csproj|c:\\users\\ozan\\source\\repos\\efdbfirst.ui\\repositories\\concrete\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B107959-401B-4806-95AF-7EBC7485963A}|EFDbFirst.UI.csproj|solutionrelative:repositories\\concrete\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B107959-401B-4806-95AF-7EBC7485963A}|EFDbFirst.UI.csproj|c:\\users\\ozan\\source\\repos\\efdbfirst.ui\\frmproduct.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B107959-401B-4806-95AF-7EBC7485963A}|EFDbFirst.UI.csproj|solutionrelative:frmproduct.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmProduct.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\source\\repos\\EFDbFirst.UI\\frmProduct.Designer.cs",
+              "RelativeDocumentMoniker": "frmProduct.Designer.cs",
+              "ToolTip": "C:\\Users\\Ozan\\source\\repos\\EFDbFirst.UI\\frmProduct.Designer.cs",
+              "RelativeToolTip": "frmProduct.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T11:44:40.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmCategory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ozan\\source\\repos\\EFDbFirst.UI\\frmCategory.cs",
+              "RelativeDocumentMoniker": "frmCategory.cs",
+              "ToolTip": "C:\\Users\\Ozan\\source\\repos\\EFDbFirst.UI\\frmCategory.cs [Design]",
+              "RelativeToolTip": "frmCategory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T11:07:00.262Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\source\\repos\\EFDbFirst.UI\\Repositories\\Abstract\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Abstract\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Ozan\\source\\repos\\EFDbFirst.UI\\Repositories\\Abstract\\IRepository.cs",
+              "RelativeToolTip": "Repositories\\Abstract\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T11:06:09.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\source\\repos\\EFDbFirst.UI\\Repositories\\Concrete\\Repository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Concrete\\Repository.cs",
+              "ToolTip": "C:\\Users\\Ozan\\source\\repos\\EFDbFirst.UI\\Repositories\\Concrete\\Repository.cs",
+              "RelativeToolTip": "Repositories\\Concrete\\Repository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwCkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T19:26:44.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmSupplier.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ozan\\source\\repos\\EFDbFirst.UI\\frmSupplier.cs",
+              "RelativeDocumentMoniker": "frmSupplier.cs",
+              "ToolTip": "C:\\Users\\Ozan\\source\\repos\\EFDbFirst.UI\\frmSupplier.cs [Design]",
+              "RelativeToolTip": "frmSupplier.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:46:05.621Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmSupplier.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\source\\repos\\EFDbFirst.UI\\frmSupplier.cs",
+              "RelativeDocumentMoniker": "frmSupplier.cs",
+              "ToolTip": "C:\\Users\\Ozan\\source\\repos\\EFDbFirst.UI\\frmSupplier.cs",
+              "RelativeToolTip": "frmSupplier.cs",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAswMEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T15:25:47.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\source\\repos\\EFDbFirst.UI\\frmProduct.cs",
+              "RelativeDocumentMoniker": "frmProduct.cs",
+              "ToolTip": "C:\\Users\\Ozan\\source\\repos\\EFDbFirst.UI\\frmProduct.cs",
+              "RelativeToolTip": "frmProduct.cs",
+              "ViewState": "AgIAAKUAAAAAAAAAAAAIwLIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T21:39:04.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Ozan\\source\\repos\\EFDbFirst.UI\\frmCategory.cs",
+              "RelativeDocumentMoniker": "frmCategory.cs",
+              "ToolTip": "C:\\Users\\Ozan\\source\\repos\\EFDbFirst.UI\\frmCategory.cs",
+              "RelativeToolTip": "frmCategory.cs",
+              "ViewState": "AgIAAB0BAAAAAAAAAAAmwB0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T15:23:35.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmProduct.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ozan\\source\\repos\\EFDbFirst.UI\\frmProduct.cs",
+              "RelativeDocumentMoniker": "frmProduct.cs",
+              "ToolTip": "C:\\Users\\Ozan\\source\\repos\\EFDbFirst.UI\\frmProduct.cs [Design]",
+              "RelativeToolTip": "frmProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:07:17.934Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
